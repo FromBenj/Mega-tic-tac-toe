@@ -1,0 +1,56 @@
+body{
+    font-family: Quicksand, sans-serif;
+}
+
+#body-landing {
+    background-color: teal;
+}
+
+#landing-title {
+    margin-bottom: 1em;
+    font-size: 5em;
+    color: white;
+}
+
+#title {
+    font-weight: bold;
+    margin: 1em 0 2em 0;
+}
+
+#tableAndNames {
+    display: inline;
+    float:left;
+}
+
+.cell {
+    width: 200px;
+    height: 200px;
+    background-color:#9a1b27;
+    border:solid 1px black;
+    font-size: 190px;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 200px;
+    color: #ffe7c4;
+    margin: 3px;
+}
+
+.players {
+    font-size: 2em;
+    margin: 0 1em;
+}
+
+#score {
+    display: inline;
+    color:crimson;
+    font-weight: 900;
+    text-decoration: underline;
+}
+
+td{
+    border: solid 0.3rem orange;
+    height: 5rem;
+    width: 5rem;
+    font-weight: bold;
+    font-size:300%
+}
